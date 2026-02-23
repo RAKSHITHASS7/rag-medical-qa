@@ -241,5 +241,4 @@ For issues or questions, please check:
 
 ---
 
-**Built with ❤️ for healthcare AI applications**
 
