@@ -1,7 +1,8 @@
 # Medical RAG Question Answering System
 
 A production-grade Retrieval-Augmented Generation (RAG) system for medical question answering, designed to provide fast, reliable, and citation-grounded answers from large medical research PDFs without hallucinations.
-DEMO https://rag-medical-app.streamlit.app/
+
+Try DEMO https://rag-medical-app.streamlit.app/
 
 ## 🎯 Features
 
